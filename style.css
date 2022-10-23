@@ -1,0 +1,47 @@
+#copy_right_footer
+{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+body
+{
+    background-color: springgreen;
+}
+
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#camera
+{
+    height:400px;
+    width:500px;
+    border-color: brown;
+}
+
+img:hover
+{
+    box-shadow:0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    border-radius: 140px;
+}
+
+img:hover
+{
+    box-shadow:0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    border-radius: 140px;
+}
+
+img:hover
+{
+    box-shadow:0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    border-radius: 140px;
+}
